@@ -42,3 +42,9 @@ print('\tSTUDENT INFO')
 m.printline('*')
 s1.calculate()
 s1.dispaly()
+
+
+
+# ANIKET SANDIP AMBUSKAR
+# aniket23july@gamil.com, ambuskaraniket100@gamil.com
+# 8010519461
