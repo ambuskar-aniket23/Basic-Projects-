@@ -40,5 +40,5 @@ book1.showmedia()
 
 
 # ANIKET SANDIP AMBUSKAR
-# aniket23july@gamil.com, ambuskaraniket100@gamil.com
+# aniket23july@gmail.com, ambuskaraniket100@gmail.com
 # 8010519461
